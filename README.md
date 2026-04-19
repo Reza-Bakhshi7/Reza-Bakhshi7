@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Reza Bakhshi
 
-**GIS & Mobility Data Specialist** | M.Sc. Student Sustainable Mobilities
+**Working Student in GIS & Mobility Data** | M.Sc. Student Sustainable Mobilities
 
 I'm a Master's student at [HfWU Nürtingen-Geislingen](https://www.hfwu.de/) and working student at [NVBW](https://www.nvbw.de/) in the **Mobility Data & Innovations team (MobiData BW)**. I work at the intersection of transport planning, geodata, and data-driven analysis.
 
