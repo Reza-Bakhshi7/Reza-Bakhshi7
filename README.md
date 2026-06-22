@@ -21,7 +21,6 @@ I'm a Master's student at [HfWU Nürtingen-Geislingen](https://www.hfwu.de/) and
 | Project | Description | Tools |
 |---------|-------------|-------|
 | [Mobility Analysis Pforzheim](https://github.com/Reza-Bakhshi7/mobility-analysis-pforzheim) | Spatial analysis of urban mobility infrastructure & accessibility | QGIS, MobiData BW, OSM |
-| [Loop+ MaaS Bad Cannstatt](https://github.com/Reza-Bakhshi7/loop-plus-maas-bad-cannstatt) | Door-to-door MaaS concept for Stuttgart's Bad Cannstatt area | Mobility Design, Benchmarking |
 | [HfWU Intercampus Mobility](https://github.com/Reza-Bakhshi7/hfwu-intercampus-mobility) | Corporate Mobility Management concept for connecting two university campuses | CMM, Case Study |
 
 ---
