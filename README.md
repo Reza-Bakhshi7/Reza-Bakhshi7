@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Reza Bakhshi
+# Hi, I'm Reza Bakhshi
 
 **Working Student in GIS & Mobility Data** | M.Sc. Student Sustainable Mobilities
 
@@ -6,7 +6,7 @@ I'm a Master's student at [HfWU Nürtingen-Geislingen](https://www.hfwu.de/) and
 
 ---
 
-### 🔧 What I work with
+###  What I work with
 
 - **GIS & Spatial Analysis:** QGIS, OpenStreetMap, WMS/WFS, buffer & network analysis, heatmapping
 - **Mobility Data:** TRIAS, EFA-JSON, GTFS, MobiData BW platform
@@ -16,7 +16,7 @@ I'm a Master's student at [HfWU Nürtingen-Geislingen](https://www.hfwu.de/) and
 
 ---
 
-### 📂 Projects
+### Projects
 
 | Project | Description | Tools |
 |---------|-------------|-------|
@@ -25,14 +25,14 @@ I'm a Master's student at [HfWU Nürtingen-Geislingen](https://www.hfwu.de/) and
 
 ---
 
-### 🎓 Education
+###  Education
 
 - **M.Sc. Sustainable Mobilities** — HfWU Nürtingen-Geislingen *(2024 – present)*
 - **B.Sc. Accounting** — Azad University, Tehran *(2017 – 2023)*
 
 ---
 
-### 📜 Certifications
+###  Certifications
 
 - Artificial Intelligence in Urban Mobility — *EIT Urban Mobility (2025)*
 - Learning QGIS — *LinkedIn Learning (2025)*
