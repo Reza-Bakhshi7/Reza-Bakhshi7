@@ -10,7 +10,7 @@ I am a working student in the Mobility Data & Innovations team at NVBW (MobiData
 
 A pedestrian routing prototype offering direct, shade-preferring and sun-preferring routes. Built on the Stuttgart Pedestrian Atlas, with interactive maps, elevation profiles and configurable mobility preferences.
 
-[Explore the app](https://sonnenpfad-stuttgart.de/) · [Source code](https://github.com/Reza-Bakhshi7/sonnenpfad-stuttgart)
+[Explore the app](https://sonnenpfad-stuttgart.de/)
 
 ### [Fußgängeratlas Stuttgart](https://github.com/Reza-Bakhshi7/fussgaengeratlas-stuttgart)
 
