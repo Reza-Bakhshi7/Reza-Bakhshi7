@@ -1,46 +1,27 @@
-# Hi, I'm Reza Bakhshi
+# Reza Bakhshi
 
-**Working Student in GIS & Mobility Data** | M.Sc. Student Sustainable Mobilities
+**Geospatial Analysis · Mobility Data · Pedestrian Mobility**
 
-I'm a Master's student at [HfWU Nürtingen-Geislingen](https://www.hfwu.de/) and working student at [NVBW](https://www.nvbw.de/) in the **Mobility Data & Innovations team ([MobiData BW](https://mobidata-bw.de/))**. I work at the intersection of transport planning, geodata, and data-driven analysis.
+I am a working student in the Mobility Data & Innovations team at NVBW (MobiData BW) and an M.Sc. student in Sustainable Mobilities at HfWU Nürtingen-Geislingen.
 
----
+## Selected projects
 
-###  What I work with
+### [Sonnenpfad Stuttgart](https://github.com/Reza-Bakhshi7/sonnenpfad-stuttgart)
 
-- **GIS & Spatial Analysis:** QGIS, OpenStreetMap, WMS/WFS, buffer & network analysis, heatmapping
-- **Mobility Data:** TRIAS, EFA-JSON, GTFS, MobiData BW platform
-- **Tools:** Power BI, IBM SPSS, MS Office
-- **Programming:** Python · SQL · PostgreSQL · HTML/XML
-- **Languages:** Persian (native) · German (fluent) · English (fluent)
+A pedestrian routing prototype offering direct, shade-preferring and sun-preferring routes. Built on the Stuttgart Pedestrian Atlas, with interactive maps, elevation profiles and configurable mobility preferences.
 
----
+[Explore the app](https://sonnenpfad-stuttgart.de/) · [Source code](https://github.com/Reza-Bakhshi7/sonnenpfad-stuttgart)
 
-### Projects
+### [Fußgängeratlas Stuttgart](https://github.com/Reza-Bakhshi7/fussgaengeratlas-stuttgart)
 
-| Project | Description | Tools |
-|---------|-------------|-------|
-| [Mobility Analysis Pforzheim](https://github.com/Reza-Bakhshi7/mobility-analysis-pforzheim) | Spatial analysis of urban mobility infrastructure & accessibility | QGIS, MobiData BW, OSM |
-| [HfWU Intercampus Mobility](https://github.com/Reza-Bakhshi7/hfwu-intercampus-mobility) | Corporate Mobility Management concept for connecting two university campuses | CMM, Case Study |
+A geospatial dataset and analysis workflow covering 73,303 street segments in Stuttgart. Combines slope, seasonal shade, thermal comfort, wind exposure, surface conditions and noise to examine the urban walking environment.
 
----
+### [Mobility Analysis Pforzheim](https://github.com/Reza-Bakhshi7/mobility-analysis-pforzheim)
 
-###  Education
+GIS analysis of public transport and shared mobility accessibility, using walking isochrones, buffer analysis and cartography to identify gaps in service coverage.
 
-- **M.Sc. Sustainable Mobilities** — HfWU Nürtingen-Geislingen *(2024 – present)*
-- **B.Sc. Accounting** — Azad University, Tehran *(2017 – 2023)*
+## Core tools
 
----
+Python · QGIS · GeoPandas · Shapely · SQL · PostgreSQL/PostGIS · OpenStreetMap
 
-###  Certifications
-
-- Artificial Intelligence in Urban Mobility — *EIT Urban Mobility (2025)*
-- Learning QGIS — *LinkedIn Learning (2025)*
-- Foundations of GIS — *LinkedIn Learning (2024)*
-
----
-
-### 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-rezabakhshi)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:Bakhshimohammadreza@gmx.de)
+[LinkedIn](https://www.linkedin.com/in/m-rezabakhshi)
