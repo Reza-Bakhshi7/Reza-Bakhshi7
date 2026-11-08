@@ -14,7 +14,7 @@ A pedestrian routing prototype offering direct, shade-preferring and sun-preferr
 
 ### [Fußgängeratlas Stuttgart](https://github.com/Reza-Bakhshi7/fussgaengeratlas-stuttgart)
 
-A geospatial dataset and analysis workflow covering 73,303 street segments in Stuttgart. Combines slope, seasonal shade, thermal comfort, wind exposure, surface conditions and noise to examine the urban walking environment.
+A geospatial dataset and analysis workflow covering street segments in Stuttgart. Combines slope, seasonal shade, thermal comfort, wind exposure, surface conditions and noise to examine the urban walking environment.
 
 ### [Mobility Analysis Pforzheim](https://github.com/Reza-Bakhshi7/mobility-analysis-pforzheim)
 
